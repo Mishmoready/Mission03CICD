@@ -33,7 +33,6 @@ jobs:
           name: node-app
           path: |
             .
-            /Mission03CICD
             !node_modules/
 
   deploy:
